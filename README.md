@@ -3,7 +3,7 @@ TCPGuiTester - Application for logging and tracing tcp flows in real time with v
 
 Application for logging the throughput, RTT, cwnd in real time. 
 !
-[TCPlog_screenshot](figure.png)
+[!GuiTester screenshot](figure.png)
 
 
 Based on
